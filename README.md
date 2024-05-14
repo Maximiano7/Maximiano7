@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil💙
 
-<!--
-**Maximiano7/Maximiano7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduardo Maximiano
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento do meu projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo📫
+
+- 00001101592990sp@al.educacao.sp.gov.br
+
+- @dudu_7
+
+![](https://media1.tenor.com/m/epNtODsSK4UAAAAC/celebrando-a-vit%C3%B3ria-comemorando.gif)
